@@ -1,7 +1,7 @@
 # Minecraft
 
-Minecraft terep generálása rétegelt Perlin zajjal.
+Minecraft terrain generation with layered Perlin noise.
 
-Unity projekt verzió: 2020.1.6f1
+Unity project version: 2020.1.6f1
 
 ![](terrainGeneration.gif)
