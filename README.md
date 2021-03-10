@@ -1,4 +1,4 @@
-# Minecraft
+# Minecraft terrain generator
 
 Minecraft terrain generation with layered Perlin noise.
 
